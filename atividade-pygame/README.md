@@ -72,7 +72,7 @@ python main.py
 
 ---
 
-## Conceitos utilizados
+## conceito utilizados
 
 - pygame.Rect
 - Detecção de colisão com `colliderect`
