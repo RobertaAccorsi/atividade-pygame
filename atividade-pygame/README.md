@@ -39,4 +39,49 @@ O sistema possui:
 
 ---
 
-## Estrutura do projeto
+## Estrutura do projeto 
+
+atividade-pygame/
+├── main.py
+└── README.md
+
+## Requisitos
+
+- Python 3
+- Biblioteca Pygame
+
+---
+
+## Instalação da biblioteca 
+
+pip install pygame
+
+## Execução
+
+No terminal, dentro da pasta do projeto, execute: 
+
+python main.py 
+
+## Funcionalidades implementadas
+
+- Criação de dois objetos do tipo `pygame.Rect`
+- Movimento automático dos objetos
+- Função refatorada para tratar colisões com as bordas da tela
+- Detecção de colisão entre os dois objetos utilizando `colliderect`
+- Alteração da direção e da cor ao ocorrer colisão
+
+---
+
+## Conceitos utilizados
+
+- pygame.Rect
+- Detecção de colisão com `colliderect`
+- Funções refatoradas
+- Simulação de movimento estilo DVD
+- Estruturas de repetição e controle de eventos
+
+---
+
+## Autora
+
+Roberta Accorsi
